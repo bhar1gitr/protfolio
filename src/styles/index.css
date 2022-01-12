@@ -1,0 +1,21 @@
+.toggle:after{
+   content: "";
+   animation: toggle 10s  infinite ease-in-out;
+   color: red;
+   text-decoration: underline;
+}
+@keyframes toggle{
+    0%{content: "HTML.";}
+    20%{content: "CSS.";}
+    40%{content: "JS.";}
+    50%{content: "C++.";}
+    80%{content: "Bootstrap.";}
+    100%{content: "React.";}
+}
+#nav{
+    position: sticky;
+    top: 0px;
+    left: 0px; 
+    z-index: 1;
+}
+

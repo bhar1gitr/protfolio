@@ -1,0 +1,12 @@
+.card-img-overlay{
+    width: 80%;
+    height: 300px;
+    margin: 40px 20px;
+}
+.card-img-overlay .card-title, .card-text{
+  font-size: 3em;
+}
+
+.toggle{
+    font-weight: bold;
+}
