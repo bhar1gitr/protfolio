@@ -14,7 +14,7 @@ export class About extends Component {
               <h1 className="card-title h1 text-center">About Me</h1>
               <h6 className="card-subtitle mb-2 text-muted" style={{fontSize: "3em"}}>Name : Bharat Sharma,</h6>
               <h6 className="card-subtitle mb-2 text-muted" style={{fontSize: "3em"}}>Hobby : Web Designer,</h6>
-              <h6 className="card-subtitle mb-2 text-muted" style={{fontSize: "3em"}}>Age : 18 years old,</h6>
+              <h6 className="card-subtitle mb-2 text-muted" style={{fontSize: "3em"}}>Age : 19 years old,</h6>
               <h6 className="card-subtitle mb-2 text-muted" style={{fontSize: "3em"}}>Country : India,</h6>
               <h6 className="card-subtitle mb-2 text-muted" style={{fontSize: "3em"}}>Qualification : Studing In 1<sup>st</sup> Year Btec(IT).</h6>
             </div>
